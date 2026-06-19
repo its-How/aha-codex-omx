@@ -1,7 +1,6 @@
 ---
 name: aha-codex-omx
 description: "Mode switch for Codex+OMX: full delegation x full capability surface x per-task OMX sub-mode matching. NOT for trivial edits, quick Q&A, read-only exploration, or when user says 'do it natively'."
-hidden: true
 ---
 
 # Aha-Codex-OMX — Full Power + Full Delegation Mode
