@@ -12,7 +12,7 @@ Install path: `~/.codex/skills/aha-codex-omx/` (user-global) or `.agents/skills/
 
 ## Contents
 
-- `aha-codex-omx/SKILL.md` — skill instructions (hidden: true, activates on explicit invoke only)
+- `aha-codex-omx/SKILL.md` — skill instructions (activates via description matching)
 - `LICENSE` — MIT, Copyright (c) 2026 How
 
 ## Source
